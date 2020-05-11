@@ -1,0 +1,5 @@
+For install execute de following commands
+
+$ ./configure
+$ make LIBS="/usr/lib/libintl.a /usr/lib/libiconv.a"
+$ make install
